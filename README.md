@@ -6,8 +6,8 @@ async function legend() {
   const Hyperz = require('200iq.js');
   const chalk = require('chalk');
 
-  let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
-  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5/CSS', 'Java', 'MySQL', 'Python', 'Markdown'];
+  let doing = ['Sleeping', 'Eating', 'Making Discord Bots', 'Making Stuff in Photoshop'];
+  let langs = ['JavaScript', 'NodeJS','HTML5/CSS', 'Bits of PHP'];
   let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
 
   let practice = await Hyperz.randomize(doing, langs, tools);
