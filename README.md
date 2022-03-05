@@ -24,7 +24,7 @@ exports.hyperz = legend;
 <p align="center">
 <a href="https://github.com/PattysDevelopment">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itz-Hyperz&show_icons=true&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PattysDevelopmentz&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PattysDevelopment&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PattysDevelopment&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&sideLabels=D9DDC3" /></a>
 </a>
 </p>
